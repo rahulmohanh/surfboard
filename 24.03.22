@@ -1,0 +1,15 @@
+24.03.22 (thursday)
+Today was an interesting day, got to know more about programming language,problem solving, morning we had breakfast (dosa),had chit-chat with friends and straight up started with yesterdays leftover works, I was stuck with the number puzzle which was given on the previous day had to put up a number right on place I tried but coudn't figure out how! Then my mentor Mr krishna assigned me with 3 questions among which I was able to solve the first 
+one with ease, the other two were a bit confusing and brainstorming I thought of quitting first and approached my mentor but he motivated me to think even harder and I was almost there and provided me with various hints on getting into the solution. I was halfway there and with the help of my friend  Haridev I could easily sort out the solution, I shared my answer to my mentor he was happy but recommended me to do it alone for more improvement in problem solving. It was time for afternoon session by Mr kaushik in which he helped us figure out previous day's problems, the number puzzle was 
+solved using strategy clockwise and anticlockwise rotation of number or(sequence of train), he also mentioned how senior batch solved it by cutting 
+out each numbers from the box and moving it around. Moving on he spoke about method of problem solving few of them were 1) List out all constraints
+ (restrictions),2) create a list of possible outcomes 3)select the best outcomes and solve the problem.
+Then we had lunch, after lunch my mentor gave a brief idea about cloud section which he was handling. from which I got an idea about how it works,
+cloud section comes into action after the work of development,security and testing. It mainly focus on managing traffic within multiple clients for 
+example , If there are 100 clients using the application at once it should work efficiently without crashing and the software which is developed by   developing team is tested and uploaded to cloud terminal from which they are send to clients in the form of A.p.k (application) or link. 
+Later my mentor gave me a task to find out what is framework? which I discovered on google on simple words its build on top of programming language
+which can be selectively specialized or overridden by developers or users.
+later on the day we had other session by Mr kaushik which covered main topics in GIThub but unfortunately due to some technical issues we could not 
+complete our task of uploading or (pushing) the text files created for sample run, but got to kmow various commands on how to initiate a file in a
+ particular folder by using (git init),how to add the initiated file by (git add), how to commit to a particular folder  to github using (git commit -m"Folder name"). before leaving, my mentor asked me to find out what are HTML (Hyper Text Markup Language),CSS (Cascading Style Sheets),which is a 
+markup language such as HTML, and JS (Java Script) it can be used as both client-side and server-side which makes web page interactive. and by 6pm we winded up our session.    
